@@ -5,7 +5,7 @@
 React
 Node.js
 Git
-ChatGPT
+AI Assistant: Claude
 
 ## Goal
 
