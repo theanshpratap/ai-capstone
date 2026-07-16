@@ -14,3 +14,4 @@ docs:
 style:
 
 Always write readable code.
+AI assistance was used to improve project documentation.
