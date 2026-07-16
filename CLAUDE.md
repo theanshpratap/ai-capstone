@@ -1,19 +1,16 @@
 # Project Rules
 
-## Tech Stack
-- React
-- Node.js
+Language: JavaScript
 
-## Coding Style
-- Use clean and readable code.
-- Write meaningful commit messages.
-- Follow Conventional Commits.
+Frontend: React
 
-## Commit Types
-- feat:
-- fix:
-- docs:
-- style:
-- refactor:
+Backend: Node.js
 
-Always write clean, readable and well-documented code.
+Commit Style:
+
+feat:
+fix:
+docs:
+style:
+
+Always write readable code.

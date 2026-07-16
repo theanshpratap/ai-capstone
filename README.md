@@ -1,8 +1,16 @@
 # AI Capstone
 
-Created for FlyRank AI Internship.
-
 ## Tech Stack
-- React
-- Node.js
-- Git
+
+React
+Node.js
+Git
+Cursor
+
+## Goal
+
+Learning AI-assisted development.
+
+## Author
+
+Ansh
