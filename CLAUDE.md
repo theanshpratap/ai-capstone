@@ -15,3 +15,5 @@
 - docs:
 - style:
 - refactor:
+
+Always write clean, readable and well-documented code.
