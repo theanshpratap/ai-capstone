@@ -5,7 +5,7 @@
 React
 Node.js
 Git
-Cursor
+ChatGPT
 
 ## Goal
 
